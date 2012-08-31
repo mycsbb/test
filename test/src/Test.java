@@ -34,6 +34,7 @@ public class Test {
 			}
 		String priority = element.attributeValue("priority");
 		System.out.println(priority);
+		System.out.println(priority);
 	}
 
 }
